@@ -29,7 +29,6 @@ dependencies {
 
 test {
     useJUnit()
-    useJUnitPlatform()
 }
 
 shadowJar {
